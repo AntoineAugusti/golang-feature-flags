@@ -1,0 +1,4 @@
+tenets:
+  - import: codelingo/code-review-comments/avoid-renaming-imports
+  - import: codelingo/code-review-comments/go-error-fmt
+  - import: codelingo/effective-go/comment-first-word-as-subject
